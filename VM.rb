@@ -71,7 +71,7 @@ class Stock
 
   end
 
-  def nyukko
+  def nyuko
 
 end
 
